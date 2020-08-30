@@ -73,7 +73,7 @@ int main()
 									right = lend;
 								}
 		}
-		cout << front << " "; \
+		cout << front << " ";
 		top = 1, front = 2, left = 3, back = 5, right = 4, bottom = 6;
 	}
 }
